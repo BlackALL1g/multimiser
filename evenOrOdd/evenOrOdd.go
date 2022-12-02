@@ -10,6 +10,8 @@ func EvenOrOdd() {
 
 	var a int
 
+	fmt.Println("\nPut any integer number and I will return the answer")
+
 	for {
 
 		fmt.Println("\nPress 00 to comeback to main menu")
