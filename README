@@ -1,0 +1,7 @@
+Hi !
+This is my program, so-called "multimiser". I'm going to fill up this thing during my developing in Golang.
+Basically, it's sopposed to be educational stuff, where i will add more and more functionality while i'm growing up day by day.
+There are some working applications like calculator, even or odd checker.
+You can test it out by using "go run main.go" command in standard input.
+
+
